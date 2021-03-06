@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.4a5c5f7e.chunk.js",
+    "main.js.map": "/static/js/main.4a5c5f7e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3e205720.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3e205720.js.map",
+    "static/js/2.6bb2ef29.chunk.js": "/static/js/2.6bb2ef29.chunk.js",
+    "static/js/2.6bb2ef29.chunk.js.map": "/static/js/2.6bb2ef29.chunk.js.map",
+    "static/js/3.d561fe6d.chunk.js": "/static/js/3.d561fe6d.chunk.js",
+    "static/js/3.d561fe6d.chunk.js.map": "/static/js/3.d561fe6d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6bb2ef29.chunk.js.LICENSE.txt": "/static/js/2.6bb2ef29.chunk.js.LICENSE.txt",
+    "static/media/dice-1.1227cba4.png": "/static/media/dice-1.1227cba4.png",
+    "static/media/dice-2.a668e01b.png": "/static/media/dice-2.a668e01b.png",
+    "static/media/dice-3.e54901c2.png": "/static/media/dice-3.e54901c2.png",
+    "static/media/dice-4.fd45f969.png": "/static/media/dice-4.fd45f969.png",
+    "static/media/dice-5.fb4796ac.png": "/static/media/dice-5.fb4796ac.png",
+    "static/media/dice-6.3d97ed8a.png": "/static/media/dice-6.3d97ed8a.png",
+    "static/media/dice-welcome.c1549154.png": "/static/media/dice-welcome.c1549154.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e205720.js",
+    "static/js/2.6bb2ef29.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.4a5c5f7e.chunk.js"
+  ]
+}
